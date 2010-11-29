@@ -1,2 +1,0 @@
-filename;exists;filetype
-http://www.kettle.be/GenerateRows.kjb;Y;file
